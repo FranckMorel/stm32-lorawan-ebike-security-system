@@ -22,7 +22,7 @@ The firmware is written in C/C++ using a modular and hardware-oriented embedded 
 - LoRaWAN communication via TTN
 - Event-driven alarm state machine
 - Periodic uplink transmission
-- Power management
+- Power management for longlasting battery
 - Modular driver-based firmware architecture
 
 ---
